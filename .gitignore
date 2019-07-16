@@ -20,5 +20,6 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
+.vscode
 
 # End of https://www.gitignore.io/api/vue,vuejs
