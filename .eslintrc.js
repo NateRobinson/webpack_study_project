@@ -10,5 +10,9 @@ module.exports = {
     sourceType: "module",
   },
   plugins: ["vue"],
-  rules: {},
+  rules: {
+    "no-console": "off",
+    "no-alert": "off",
+    indent: ["error", 2],
+  },
 };

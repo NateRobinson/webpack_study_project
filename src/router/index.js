@@ -7,11 +7,11 @@ export default new Router({
   routes: [
     {
       path: "/",
-      component: Hello
+      component: Hello,
     },
     {
       path: "/about",
-      component: About
-    }
-  ]
+      component: About,
+    },
+  ],
 });
